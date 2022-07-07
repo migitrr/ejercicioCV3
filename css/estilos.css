@@ -2,6 +2,11 @@ body{
     background-color: lightgray;
     color: darkblue;
     font-family: Verdana, sans-serif;
+    width: 40%;
+    border: 5px double maroon;
+}
+div{
+    margin: auto;
 }
 h1,p{
     text-align: center;
